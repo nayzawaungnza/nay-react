@@ -1,0 +1,19 @@
+[
+    {
+        "role": "Web Developer",
+        "orgainzation": "DataLink Company",
+        "startDate": "23 Sep 2017",
+        "endDate": "12 Aug 2023",
+        "experiences":["PHP","Wordpress", "JQuery"],
+        "imageSrc":"history/datalink.png"
+    },
+    {
+        "role": "Web Developer",
+        "orgainzation": "Super Seven Stars (IT)",
+        "startDate": "14 Aug 2023",
+        "endDate": "Present",
+        "experiences":["PHP","Wordpress", "Laravel","JQuery","JS"],
+        "imageSrc":"history/supersevenstars.png"
+    }
+
+]

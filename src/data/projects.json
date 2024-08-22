@@ -1,0 +1,26 @@
+[
+    {
+        "title": "FLIGHT",
+        "image": "projects/project.png",
+        "description" : "A modern, responsive React flight travel template designed for seamless flight search and booking. Features include intuitive forms, real-time flight results, and easy navigation.",
+        "skills": ["React","Tailwindcss"],
+        "demo": "https://flights-zeta.vercel.app/",
+        "source": "https://github.com/nayzawaungnza/flights/"
+    },
+    {
+        "title": "eCommerce",
+        "image": "projects/project.png",
+        "description" : "An ecommerce platform built with Laravel and Livewire, offering real-time updates, seamless user interaction, and dynamic product management.",
+        "skills": ["PHP","Laravel","Tailwindcss", "Livewire", "JQuery"],
+        "demo": "#",
+        "source": "https://github.com/nayzawaungnza/ecommerce-laravel-livewire"
+    },
+    {
+        "title": "Portfolio",
+        "image": "projects/project.png",
+        "description" : "A modern portfolio built with React, showcasing projects, skills, and achievements with a responsive, interactive design.",
+        "skills": ["React","CSS"],
+        "demo": "#",
+        "source": "#"
+    }
+]

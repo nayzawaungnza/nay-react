@@ -1,0 +1,42 @@
+[
+    {
+        "degree": "Bachelor of Computer Science",
+        "university": "University of Computer Studies",
+        "startDate": "2012",
+        "endDate": "2017",
+        "location": "Meiktila",
+        "imageSrc": "education/udb.png"
+    },
+    {
+        "degree": "Certificate in Web Development",
+        "university": "CodeLab",
+        "startDate": "2022",
+        "endDate": "2022",
+        "location": "Online Course",
+        "imageSrc": "education/udb.png"
+    },
+    {
+        "degree": "Certificate in React+Firebase",
+        "university": "Creative Coder",
+        "startDate": "2024",
+        "endDate": "2024",
+        "location": "Online Course",
+        "imageSrc": "education/udb.png"
+    },
+    {
+        "degree": "Certificate in MERN Stack Development",
+        "university": "Creative Coder",
+        "startDate": "2024",
+        "endDate": "2024",
+        "location": "Online Course",
+        "imageSrc": "education/udb.png"
+    },
+    {
+        "degree": "Certificate in Programming basic with Javascript",
+        "university": "Creative Coder",
+        "startDate": "2024",
+        "endDate": "2024",
+        "location": "Online Course",
+        "imageSrc": "education/udb.png"
+    }
+]

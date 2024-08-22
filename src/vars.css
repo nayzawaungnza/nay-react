@@ -1,0 +1,24 @@
+:root{
+    --color-text: #fff;
+    --color-primary:#55e6a5;
+    --color-secondary:#19376d;
+    --color-bg: #04152d;
+    --color-dark: #0b2447;
+
+    --font-roboto:'Roboto', sans-serif;
+    --font-outfit:'Outfit', sans-serif;
+    --font-poppins:'Poppins', sans-serif;
+    
+}
+
+/* :root {
+    --colorPrimary: #55e6a5;
+    --bgColor: #09101a;
+    --bodyBg: #02050a;
+    --colorWhite: #fff;
+    --colorBlack: #02050a;
+    --ratingColor: #ffba08;
+    --bodyColor: #a2a2a2;
+    --PrimaryFont: "Poppins",sans-serif;
+    --secondaryFont: "Open Sans",sans-serif;
+} */

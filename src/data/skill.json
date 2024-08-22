@@ -1,0 +1,70 @@
+[
+    {
+        "name": "HTML",
+        "image": "skill/html5-original.svg",
+        "level": "100%"
+    },
+    {
+        "name": "CSS",
+        "image": "skill/css3-original.svg",
+        "level": "100%"
+    },
+    {
+        "name": "Bootstrap",
+        "image": "skill/bootstrap.svg",
+        "level": "100%"
+    },
+    {
+        "name": "JavaScript",
+        "image": "skill/javascript-original.svg",
+        "level": "100%"
+    },
+    {
+        "name": "JQuery",
+        "image": "skill/jquery.svg",
+        "level": "100%"
+    },
+    {
+        "name": "Wordpress",
+        "image": "skill/wordpress.svg",
+        "level": "100%"
+    },
+    
+    {
+        "name": "MySQL",
+        "image": "skill/mysql.svg",
+        "level": "99%"
+    },
+    {
+        "name": "GitHub",
+        "image": "skill/github-original.svg",
+        "level": "90%"
+    },
+    
+    {
+        "name": "PHP",
+        "image": "skill/php-original.svg",
+        "level": "90%"
+    },
+    {
+        "name": "Laravel",
+        "image": "skill/laravel.svg",
+        "level": "85%"
+    },
+    {
+        "name": "React",
+        "image": "skill/react-original.svg",
+        "level": "75%"
+    },
+    {
+        "name": "Node.js",
+        "image": "skill/nodejs.svg",
+        "level": "70%"
+    },
+    {
+        "name": "Next.js",
+        "image": "skill/nextjs.svg",
+        "level": "60%"
+    }
+
+]
